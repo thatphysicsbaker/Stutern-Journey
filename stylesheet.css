@@ -1,0 +1,40 @@
+.Intro{
+    font-size: 14px;
+    color: green;
+    padding: 12px;
+    text-align: justify;
+    border: 5px inset;
+    border-radius: 50px;
+    margin: 20px;
+    line-height: 120%;
+    width: 600px;
+}
+.Exp{
+    font-size: 14px;
+    color: red;
+    padding: 12px;
+    text-align: justify;
+    border: 5px outset;
+    border-radius: 50px;
+    margin: 20px;
+    line-height: 120%;
+    width: 600px;
+}
+.Boxmodel{
+    font-size: 14px;
+    color: blue;
+    padding: 12px;
+    text-align: justify;
+    border: 5px inset;
+    border-radius: 50px;
+    margin: 20px;
+    line-height: 120%;
+    width: 600px;
+}
+body{
+    background-color: white;
+}
+h1{
+    font-size: 18px;
+    text-align: center;
+}
